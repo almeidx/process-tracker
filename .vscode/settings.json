@@ -1,4 +1,19 @@
 {
-  "cSpell.words": ["DATETIME", "humantime", "rowid", "rusqlite", "sysinfo"],
+  "cSpell.words": [
+    "chrono",
+    "DATETIME",
+    "humantime",
+    "HWND",
+    "LPARAM",
+    "minwindef",
+    "processthreadsapi",
+    "psapi",
+    "rowid",
+    "rusqlite",
+    "sysinfo",
+    "winapi",
+    "windef",
+    "winuser"
+  ],
   "editor.tabSize": 4
 }
