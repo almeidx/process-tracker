@@ -1,0 +1,13 @@
+[package]
+name = "process-tracker"
+description = "Keep track of processes and how long they've been running. Wakatime but for processes"
+authors = ["Almeida <hi@almeidx.dev>"]
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+humantime = "2.1.0"
+once_cell = "1.18.0"
+sqlx = { version = "0.7", features = ["runtime-tokio"] }
+sysinfo = "0.29.10"
+whoami = "1.4.1"
