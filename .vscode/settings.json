@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["humantime", "sysinfo"]
+  "cSpell.words": ["DATETIME", "humantime", "rowid", "rusqlite", "sysinfo"],
+  "editor.tabSize": 4
 }
